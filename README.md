@@ -1,5 +1,8 @@
 # Kaggle-Predict-Future-Sales
 The task is to forecast the total amount of products sold in every shop for the test set.
+
+![sales per month](https://c1.sfdcstatic.com/content/dam/blogs/ca/Blog%20Posts/How-to-Accurately-Forecast-Sales-header.png)
+
 #### File descriptions
   :-sales_train.csv - the training set. Daily historical data from January 2013 to October 2015.
   
