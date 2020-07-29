@@ -41,5 +41,9 @@ The task is to forecast the total amount of products sold in every shop for the 
   :-item_category_name - name of item category
   
 ## Download the dataset:- https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
+
+#### Presently LeaderBoard Score is 1.25011
+
+I used Simple LSTM Network inorder to predict the sales count
   
  #### In progress 
